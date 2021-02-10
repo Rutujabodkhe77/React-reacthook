@@ -1,0 +1,32 @@
+
+/* *** this is exteral CSS***/
+.wisdom
+{
+    color: brown;
+    text-align: center;
+    background-color: burlywood;
+}
+
+.sprouts
+{
+    color: black;
+    height: 30px;
+    text-align: center;
+    background-color: palevioletred;
+    margin-right:600px;
+    margin-left:600px;
+    font-size: larger;
+}
+
+.button
+{
+    color:black;
+    background-color:grey;
+    text-align: center;
+    /* background-color: burlywood; */
+    margin-right:200px;
+    margin-left:700px;
+    box-shadow:purple;
+    font-size: larger;
+
+}
