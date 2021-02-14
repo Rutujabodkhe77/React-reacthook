@@ -1,10 +1,22 @@
 
 /* *** this is exteral CSS***/
+body{
+    background-color: antiquewhite;
+    /* margin-left: 250px;
+    margin-right: 250px; */
+    padding-left: 20px;
+}
+h1{
+    text-align: center;
+}
 .wisdom
 {
     color: brown;
     text-align: center;
     background-color: burlywood;
+    
+    margin-left: 350px;
+    margin-right: 250px;
 }
 
 .sprouts
@@ -12,7 +24,7 @@
     color: black;
     height: 30px;
     text-align: center;
-    background-color: palevioletred;
+    /* background-color: palevioletred; */
     margin-right:600px;
     margin-left:600px;
     font-size: larger;
